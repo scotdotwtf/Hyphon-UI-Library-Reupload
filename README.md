@@ -1,5 +1,8 @@
 # Hyphon UI Library Reupload
 ### Simple reupload of UI library from https://v3rmillion.net/showthread.php?tid=1203835
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/Hyphon_Library.lua"))({cheatname = 'cheat name', gamename = "game name"})
+```
 ### Preview:
 ![preview](https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/Hyphon_Preview.png)
 
