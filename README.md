@@ -1,7 +1,7 @@
 # Hyphon UI Library Reupload
 ### Simple reupload of UI library from https://v3rmillion.net/showthread.php?tid=1203835
 ### Preview:
-[https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/Hyphon_Preview.png](library preview)
+[preview](https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/Hyphon_Preview.png)
 
 ### Documentation
 - ### *more documentation will be made later, this is just pasted from v3rm
