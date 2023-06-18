@@ -204,7 +204,7 @@ local library = {
     gamename    = 'apocalypse rising 2',
     themes      = themes,
     theme       = themes.default,
-    signal      = loadstring(game:HttpGetAsync('https://octohook.xyz/module/uzKepgGDHoPdBnxTasvvfMpHU2BpfYhEYJ0mpoWDz1h0Fkjb6h.signal.lua'))(),
+    signal      = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/signal.lua'))(),
     stat        = {fps = 0, ping = 0},
     drawings    = {
         active    = {},
