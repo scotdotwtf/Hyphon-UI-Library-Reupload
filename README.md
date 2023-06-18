@@ -1,16 +1,26 @@
+# ⚠ I DID NOT MAKE THIS ⚠
+### All credits go to liammuwu on v3rmillion ([https://v3rmillion.net/showthread.php?tid=1203835](https://v3rmillion.net/member.php?action=profile&uid=2406463))
 # Hyphon UI Library Reupload
 ### Simple reupload of UI library from https://v3rmillion.net/showthread.php?tid=1203835
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/Hyphon_Library.lua"))({cheatname = 'cheat name', gamename = "game name"})
+
+## Library info
+```
+Author: liammuwu
+Supported executors: Synapse X, Synapse V3, (?) Scriptware *all untested for now*
+Type: Drawing
 ```
 
-# ⚠ I DID NOT MAKE THIS ⚠
-
-### Preview:
+## Preview:
 ![preview](https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/Hyphon_Preview.png)
 
-### Documentation
-- ### *more documentation will be made later, this is just pasted from v3rm
+## Library Demo
+- ### Unfinished demo, more soon whenever synapse is unpatched
+```lua
+local Hyphon = loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/Hyphon-UI-Library-Reupload/main/Hyphon_Library.lua"))({cheatname = 'cheat name', gamename = "game name"})
+```
+
+## Documentation
+- ### More documentation will be made later, this is just pasted from v3rm
 
 ```lua
 -- documentation
