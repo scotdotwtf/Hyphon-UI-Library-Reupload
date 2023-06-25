@@ -1,5 +1,5 @@
 # ⚠ I DID NOT MAKE THIS ⚠
-### All credits go to liammuwu on v3rmillion ([https://v3rmillion.net/showthread.php?tid=1203835](https://v3rmillion.net/member.php?action=profile&uid=2406463))
+### All credits go to liammuwu on v3rmillion ([https://v3rmillion.net/member.php?action=profile&uid=2406463](https://v3rmillion.net/member.php?action=profile&uid=2406463))
 # Hyphon UI Library Reupload
 ### Simple reupload of UI library from https://v3rmillion.net/showthread.php?tid=1203835
 
